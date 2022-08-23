@@ -29,6 +29,10 @@ Visit - [FrutaFruto](https://www.google.com)
 
 :heavy_check_mark: Conheçendo o HTML semântico e inserindo cards
 
+* Utilizar o componente card do Bootstrap;
+* Personalizar o componente quando necessário usando nossas próprias classes;
+* Adotar algumas tags semânticas em nosso HTML
+
 :heavy_check_mark: Alinhando elementos com Bootstrap Grid
 
 :heavy_check_mark: Modais e últimos ajustes
