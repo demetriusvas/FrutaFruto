@@ -24,6 +24,9 @@ Visit - [FrutaFruto](https://www.google.com)
 
 :heavy_check_mark: Títulos, textos e ferramentas de espaçamento
 
+* Formatar elementos de texto com o Bootstrap;
+* Utilizar o Bootstrap para controlar larguras e alturas de margin e padding.
+
 :heavy_check_mark: Conheçendo o HTML semântico e inserindo cards
 
 :heavy_check_mark: Alinhando elementos com Bootstrap Grid
