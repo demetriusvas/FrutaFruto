@@ -41,6 +41,12 @@ Visit - [FrutaFruto](https://www.google.com)
 
 :heavy_check_mark: Modais e últimos ajustes
 
+* Identificar alguns tipos de modais na documentação do Bootstrap;
+* Inserir modais em nosso código;
+* Estilizar e adaptar os modais ao nosso projeto;
+* Identificar onde podemos utilizar mais classes semânticas e fazer substituições;
+* Fazer pequenos ajustes de leiaute com o CSS;
+* Implementar um rodapé com elementos de texto simples.
 
 ## ✅ Linguagens utilizadas 👇
 
