@@ -35,6 +35,10 @@ Visit - [FrutaFruto](https://www.google.com)
 
 :heavy_check_mark: Alinhando elementos com Bootstrap Grid
 
+* Trabalhar mais com o componente card e personalizar as informações;
+* Fazer mais alguns ajustes de imagens;
+* Utilizar algumas ferramentas do Bootstrap Grid.
+
 :heavy_check_mark: Modais e últimos ajustes
 
 
